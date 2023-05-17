@@ -13,4 +13,4 @@ d) Phone number -> in the following format: '+' 3 digits '(' 2 digits ')' 4 or 5
 <br>
 <h2 align="center"> Flowchart </h2>
 
-<br>
+![Flowchart](https://github.com/devarthurmiranda/FormRegexVerification/assets/83318673/e5ce4230-5ad0-400e-b838-507e0e752f50)
