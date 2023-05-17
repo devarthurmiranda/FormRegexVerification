@@ -9,8 +9,6 @@ b) CPF -> Follow the following format: 3 digits '.' 3 digits '.' 3 digits '-' 2 
 c) Password -> Must start with a number and end with a letter, minimum 4 digits, maximum 10 digits, must contain letters and numbers (at least one of each)
   
 d) Phone number -> in the following format: '+' 3 digits '(' 2 digits ')' 4 or 5 digits '-' 4 digits
-
-Elaborate a flowchart regarding the operation of the application. 
 </p>
 <br>
 <h2 align="center"> Flowchart </h2>
